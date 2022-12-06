@@ -1,4 +1,4 @@
-Hi 👋 My name is Patrick
+Hi, my name is Patrick
 ========================
 
 Recent Computer Science and Engineering graduate currently working front end, but ready for back end or even full stack. Ever ready to learn.
