@@ -3,9 +3,8 @@ Hi, my name is Patrick
 
 Recent Computer Science and Engineering graduate currently working front end, but ready for back end or even full stack. Ever ready to learn.
 
-*   🌍  I'm based in California
-*   ✉️  You can contact me at [patrickdorann@gmail.com](mailto:patrickdorann@gmail.com)
-*   🧠  I'm learning React
+*   I'm based in California
+*   You can contact me at [patrickdorann@gmail.com](mailto:patrickdorann@gmail.com)
 
 ### Skills
 <p align="left">
